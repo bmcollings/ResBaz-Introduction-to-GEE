@@ -32,7 +32,8 @@ In the example above ```myFeatureCollection``` contains 2 features which are geo
 
 Rather than creating our own training data set we are going to ingest a shapefile that contains that information. We can ingest our own data into GEE as an Asset. 
 
-><span style="color:red"> **Step 1:** [Start by accessing the script for this session](https://code.earthengine.google.com/?scriptPath=users%2Fbcol845%2FResBaz%3ASession_3_Starter) Make sure you have downloaded and unzipped the file trainingData.zip from the additional info email (???CHANGE to a GITHUB link/UNI DROP BOX???). Navigate to the Assets tab > NEW > Shape files > SELECT and select all the files in the trainingData folder. </span>
+><span style="color:red"> **Step 1:** [Start by accessing the script for this session](https://code.earthengine.google.com/?scriptPath=users%2Fbcol845%2FResBaz%3ASession_3_Starter) Make sure you have downloaded and unzipped the file trainingData.zip from the resources folder in the [github repository](https://github.com/bmc921/ResBaz-Introduction-to-GEE)  
+>Navigate to the Assets tab > NEW > Shape files > SELECT and select all the files in the trainingData folder. </span>
 
 <br />
 
