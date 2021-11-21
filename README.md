@@ -25,5 +25,4 @@ The resources for these sessions can be found in the _resources_ folder in this 
 
 Look forward to seeing at the session! In the mean time feel free to browse the resources and check out the video below for a nice summary of the GEE platform. 
 
-[![Alternate Text]({./Resources/figures})]({https://www.youtube.com/watch?v=4E6yQLoGO2o} "Introduction to planetary-scale geospatial analysis with Google Earth Engine")
-
+[![Alternate Text](./Resources/figures/videoGEE.png)](https://www.youtube.com/watch?v=4E6yQLoGO2o)
